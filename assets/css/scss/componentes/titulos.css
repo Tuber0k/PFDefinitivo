@@ -1,0 +1,17 @@
+h1 {
+  font-weight: bold;
+  font-size: 30px;
+  color: rgb(248, 64, 32);
+  text-align: center;
+}
+
+h2 {
+  font-size: 35px;
+  color: rgb(248, 64, 32);
+  text-align: center;
+  padding-top: 20px;
+}
+
+footer {
+  color: brown;
+}/*# sourceMappingURL=titulos.css.map */
