@@ -1,0 +1,88 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: rgb(248, 210, 210); 
+    opacity: 0.7;
+  }
+
+header h1{
+    font-weight: bold;
+    font-size: 30px;
+    color: rgb(248, 64, 32);
+    text-align: center;
+
+}
+
+.redes{
+    margin: 25px;
+}
+
+
+.container {
+    font-size: 25px;
+
+}
+
+.container li a {
+    color: rgb(137, 100, 197);
+    
+}
+
+h2{
+    font-size: 35px;
+    color: rgb(248, 64, 32);
+    text-align: center;
+    padding-top: 20px;
+}
+
+.card{
+    margin-right: 10px;
+    border-color: blueviolet;
+}
+
+.card:hover {
+    transform: scale(1.1);
+}
+
+.card1{
+    background-color: rgb(170, 112, 170);
+     
+}
+
+.card-group{
+    
+    justify-content: space-between;
+    background-color: rgb(170, 112, 170);
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
+
+.tortas{
+    background-color: rgb(170, 112, 170);
+}
+
+.carrito{
+    margin-top: 25px;
+
+} 
+
+.table{
+        margin-top: 10px;
+    }
+
+
+
+
+
+aside{
+    background-color: rgb(170, 112, 170);
+    padding: 1px;
+}
+
+footer{
+    color: brown;
+}
